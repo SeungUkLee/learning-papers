@@ -35,6 +35,10 @@ library
       Section2.V1
       Section2.V2
       Section2.V3
+      Section3.Laws
+      Section4.A1
+      Section4.A2
+      Section4.Common
   other-modules:
       Paths_MonadsForFP
   hs-source-dirs:
